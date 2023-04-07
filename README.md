@@ -3,5 +3,5 @@ Minimal repo to reproduce error.
 
 
 ```bash
-docker-compose up
+npm run start:dev 
 ```
